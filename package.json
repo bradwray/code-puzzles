@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "prism-react-renderer": "1.0.2",
-    "prismjs": "1.17.1",
+    "prismjs": "1.21.0",
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-scripts": "2.0.3",
